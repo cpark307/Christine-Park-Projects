@@ -1,0 +1,2 @@
+CSC216,Programming Concepts - Java,601,4,jep,A
+CSC226,Discrete Mathematics for Computer Scientists,001,3,tmbarnes,MWF,935,1025

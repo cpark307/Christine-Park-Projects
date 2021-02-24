@@ -1,0 +1,49 @@
+			Women in Computer Science
+			----- -- -------- -------
+
+A number of women have figured prominently in the field of computer science
+even before the creation of electronic computers. Some of these early female
+pioneers include:
+
+	Ada Lovelace
+		Ada lived in the 19th century, nearly 100 years before
+		the Father of Computer Science, Alan Turing, created an
+		abstract model of a computer in 1936. Being a woman, Ada
+		was not allowed to attend the university and instead studied
+		with tutors, including the mathematician and logician,
+		Augustus De Morgan. She also worked with Charles Babbage and
+		created an algorithm for calculating Bernoulli numbers, which
+		was intended for his Analytical Engine, an early computing
+		machine. Because of this work, Ada is considered the world's
+		first programmer.  After viewing the Jacard loom, which used
+		punch cards to control the weaving of elaborate tapestries,
+		Ada realized that computing machines could go beyond mathematical
+		calculations and be used for symbol manipulation as well.
+
+	ENIAC Programmers
+		During World War II, female math majors were recruited to program
+		the ENIAC, the first electronic general-purpose computer. This was
+		not a straight-forward task. First, the women had to solve the
+		problem at hand (calculating ballistic trajectories, hydrogen bomb
+		calculations, ...) on paper, then figure out how to manipulate the 
+		computer's switches and cables to perform the calculations. Most of
+		of these women went on to further contribute to the field of computer
+		science -- their names are listed below:
+
+			- Kay McNulty
+			- Betty Snyder
+			- Marlyn Wescoff 
+			- Ruth Lichterman
+			- Betty Jennings
+			- Fran Bilas
+
+	Grace Hopper
+		Grace Hopper's career in the field of computing spanned 40 years.
+		She was a programmer for the Mark I, another early computer, and
+		helped develop the UNIVAC I. She advocated for computer programs
+		to be written in an English-like language rather than machine or
+		assembly code and invented the first compiler to achieve that goal.
+		She was instrumental in the development of COBOL, a computer language
+		that is still in use today. After retiring from the Navy, she spent
+		the last 5 years of her life as a goodwill ambassador for Digital
+		Equipment Corporation.

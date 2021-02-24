@@ -1,0 +1,6 @@
+This     file  	 contains multiple spaces   as
+well as 		tab characters. If   it is   expanded
+and then  the expanded file is unexpanded, the
+     unexpanded version of the    expanded 		file
+      will most likely not be  		the same    as the
+  original file.
